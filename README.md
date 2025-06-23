@@ -1,20 +1,34 @@
-<<<<<<< HEAD
-# do_an_quan_ly_cau_long
+🏸 Badminton Court Management System
 
-A new Flutter project.
+A cross-platform mobile and desktop application for managing badminton court bookings, built with Flutter and Firebase.
 
-## Getting Started
+ Features
 
-This project is a starting point for a Flutter application.
+ User App (Mobile)
+- Real-time court slot booking
+- View and manage booking history
+- Court availability visualization
+- User authentication with Firebase Auth
+- Payment summary and status tracking
 
-A few resources to get you started if this is your first Flutter project:
+Admin App (Windows/Desktop)
+- Visual dashboard of booking data and income
+- Manage court schedules and available time slots
+- Manage user accounts and bookings
+- Generate reports/statistics
+- View booking analytics (by day, week, month)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Badminton-Court-Management-System
->>>>>>> 4381ef7ab6b774381411bb1c33b6e0ed05defde1
+- **Flutter** (Mobile & Desktop development)
+- **Dart**
+- **Firebase Realtime Database**
+- **Firebase Authentication**
+- **REST API**
+- **Chart rendering** (for statistics)
+- **State management:** setState & basic logic separation
+
+ Project Structure
+
+Author
+Developed by Võ Nhật Ngân Contact: nganchoanh1@gmail.com
