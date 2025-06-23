@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842962092774",
+    "project_id": "do-an-cau-long-2025-85931",
+    "storage_bucket": "do-an-cau-long-2025-85931.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842962092774:android:af68bb774ce3f2f3bff127",
+        "android_client_info": {
+          "package_name": "com.example.do_an_quan_ly_cau_long"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7A71ySUOU2_wXTQqobe0EmqBff5A3sks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
